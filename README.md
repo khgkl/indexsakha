@@ -8,4 +8,12 @@
 фреймворки: Bootstrap
 сервис: GitHub
 мероприятие: моя профессия ИТ 2023
-ссылка на код:https://github.com/khgkl/indexsakha/blob/main/index.html
+ссылка на 
+гл страница :https://github.com/khgkl/indexsakha/blob/main/index.html
+создание встречи https://github.com/khgkl/meeting/blob/main/meeting.html
+создание мероприятия https://github.com/khgkl/create/blob/main/create.html
+профиль https://github.com/khgkl/personal/blob/main/personal.html
+форум https://github.com/khgkl/forum/blob/main/forum.html
+чат https://github.com/khgkl/chat/blob/main/chat.html
+мероприятия https://github.com/khgkl/event/blob/main/events.html
+регистрация https://github.com/khgkl/registr/blob/main/registr.html
